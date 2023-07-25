@@ -3,7 +3,7 @@ simple mern crud application
 
 create backend folder
  in backend folder   
-    npm init
+    npm init<br>
     install packages - npm i mongoose express dotenv cors
     create folders models and routes
     create file server.js
