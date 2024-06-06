@@ -10,6 +10,11 @@ create backend folder <br>
     change pachkage.json start name <br>
     create file named as .env <br>
     npm i nodemon "dev": "nodemon server.js" <br>
+    paclage.json should change like this - 
+    "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
 
 in main folder npx create-react-app frontend <br>
    in frontend folder <br>
